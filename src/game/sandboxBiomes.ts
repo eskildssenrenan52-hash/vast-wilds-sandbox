@@ -1,3 +1,4 @@
+// @ts-nocheck -- imported game code
 import type { AnyBiomeId } from './types';
 
 export const SANDBOX_COLS = 4800;

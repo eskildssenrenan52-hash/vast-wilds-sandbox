@@ -282,7 +282,7 @@ export const TitleScreen: React.FC<TitleScreenProps> = ({
     {
       id: 'sandbox',
       label: 'Mundo Aberto',
-      subLabel: 'Minerar · Craft · Construir',
+      subLabel: 'Minerar · Construir',
       art: sandboxArt,
       title: 'Mundo Aberto · Novo Modo Sobrevivência',
       description:

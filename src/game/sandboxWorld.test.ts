@@ -1,3 +1,4 @@
+// @ts-nocheck -- imported game code
 import assert from 'node:assert/strict';
 import test from 'node:test';
 import { createInitialPlayer } from './physics';
